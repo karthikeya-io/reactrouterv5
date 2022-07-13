@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from './Navbar'
 
-const App = () => {
+const User = () => {
   return (
     <div>
-      <Navbar/>
-      App Component
+        <Navbar/>
+        User Component
     </div>
   )
 }
 
-export default App
+export default User

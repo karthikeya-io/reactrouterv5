@@ -1,13 +1,14 @@
 import React from 'react'
 import Navbar from './Navbar'
 
-const App = () => {
+
+const Visit = () => {
   return (
     <div>
-      <Navbar/>
-      App Component
+        <Navbar/>
+        Visit Component
     </div>
   )
 }
 
-export default App
+export default Visit

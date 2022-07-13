@@ -1,13 +1,14 @@
 import React from 'react'
 import Navbar from './Navbar'
 
-const App = () => {
+
+const Notfound = () => {
   return (
     <div>
-      <Navbar/>
-      App Component
+        <Navbar/>
+        404 Page not found
     </div>
   )
 }
 
-export default App
+export default Notfound
